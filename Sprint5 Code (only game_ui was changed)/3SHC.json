@@ -1,0 +1,1 @@
+{"board_size": 3, "game_mode": "simple", "player_types": {"Blue": "Human", "Red": "Computer"}, "moves": [{"row": 0, "col": 0, "letter": "S", "player": "Red"}, {"row": 0, "col": 2, "letter": "S", "player": "Blue"}, {"row": 0, "col": 1, "letter": "O", "player": "Blue"}]}
